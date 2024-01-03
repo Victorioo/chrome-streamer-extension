@@ -1,4 +1,7 @@
-# YOUR FAVORITE STREAMER EXTENSION.
+# Your favorite streamer extension.
+
+> [!Note]
+> I used the SpreenDMC profile picture, but you can change it on the manifest.json and replacing de png image.
 
 + I was looking for an extension that tells me when my favorite streamer is ON, 
 but I didn't find it then, so i created it myself. 
@@ -16,6 +19,7 @@ Get your ClientID and Access Token....
 
 Clone the repository to have all the files, on your computer, then in the 'popup.js' file, 
 you must replace the clientID and accessToken variable with your data
+
 
 ### 3 - Upload your extension
 
