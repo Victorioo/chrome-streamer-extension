@@ -1,7 +1,10 @@
-## YOUR FAVORITE STREAMER EXTENSION.
+# YOUR FAVORITE STREAMER EXTENSION.
 
-I was looking for an extension that tells me when my favorite streamer is ON, but I didn't find it then, 
-I created it myself. 
++ I was looking for an extension that tells me when my favorite streamer is ON, 
+but I didn't find it then, so i created it myself. 
+
++ This extension uses the Twitch API, to be able to extract the data from the streamer you choose,
+you simply have to change the name and icon to the one you like the most.
 
 ## Simply to use it you must:
 ### 1 -  Create an app on your Twitch Console
@@ -19,4 +22,4 @@ you must replace the clientID and accessToken variable with your data
 To upload your extension, just drag the folder with the extension in chrome://extensions and you will be able to see it in the chrome extensions section.
 
 
-## Any bug or error open an issue
+## Any bug or error open an issue and i will see it ✨☕
