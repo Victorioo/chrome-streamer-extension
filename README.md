@@ -1,7 +1,7 @@
 # Your favorite streamer extension.
 
 > [!Note]
-> I used the SpreenDMC profile picture, but you can change it on the manifest.json and replacing de png image.
+> I used the SpreenDMC profile picture, but you can change it on the manifest.json and replacing the png image.
 
 + I was looking for an extension that tells me when my favorite streamer is ON, 
 but I didn't find it then, so i created it myself. 
